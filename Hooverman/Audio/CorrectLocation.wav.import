@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/CorrectLocation.wav-ed6a95fc2791866041ac7e6639fac5dd.sample"
+
+[deps]
+
+source_file="res://Audio/CorrectLocation.wav"
+dest_files=[ "res://.import/CorrectLocation.wav-ed6a95fc2791866041ac7e6639fac5dd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=true
+edit/loop=false
+compress/mode=0

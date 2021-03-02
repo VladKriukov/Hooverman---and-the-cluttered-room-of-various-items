@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/RoomStarter.obj-ed8f02bc58983a9c1748518f44f28c6b.mesh"
+
+[deps]
+
+files=[ "res://.import/RoomStarter.obj-ed8f02bc58983a9c1748518f44f28c6b.mesh" ]
+
+source_file="res://Art/RoomStarter.obj"
+dest_files=[ "res://.import/RoomStarter.obj-ed8f02bc58983a9c1748518f44f28c6b.mesh", "res://.import/RoomStarter.obj-ed8f02bc58983a9c1748518f44f28c6b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

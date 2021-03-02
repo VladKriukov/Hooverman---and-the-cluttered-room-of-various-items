@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Leaf-B_0.obj-5190f90446d7b2993812e55ee36b5890.mesh"
+
+[deps]
+
+files=[ "res://.import/Leaf-B_0.obj-5190f90446d7b2993812e55ee36b5890.mesh" ]
+
+source_file="res://Art/Trees/Leaf-B_0.obj"
+dest_files=[ "res://.import/Leaf-B_0.obj-5190f90446d7b2993812e55ee36b5890.mesh", "res://.import/Leaf-B_0.obj-5190f90446d7b2993812e55ee36b5890.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 270.93333 270.93334"
+   height="1024"
+   width="1024"
+   sodipodi:docname="SplashScreen.svg"
+   inkscape:export-filename="C:\Users\advks\Dropbox\Vladik\SideQuest4\Art\UI\SplashScreen.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="-67.733334"
+       y="16.933334"
+       width="423.33334"
+       height="101.6"
+       id="rect833" />
+    <rect
+       id="rect860"
+       height="101.6"
+       width="423.33334"
+       y="16.933334"
+       x="-67.733334" />
+    <rect
+       id="rect882"
+       height="101.6"
+       width="423.33334"
+       y="16.933334"
+       x="-67.733334" />
+    <rect
+       x="-67.733334"
+       y="16.933334"
+       width="423.33334"
+       height="101.6"
+       id="rect888" />
+    <rect
+       id="rect906"
+       height="101.6"
+       width="423.33334"
+       y="16.933334"
+       x="-67.733334" />
+    <rect
+       x="-67.733334"
+       y="16.933334"
+       width="423.33334"
+       height="101.6"
+       id="rect912" />
+    <rect
+       x="-67.733334"
+       y="16.933334"
+       width="423.33334"
+       height="101.6"
+       id="rect922" />
+    <rect
+       id="rect924"
+       height="101.6"
+       width="423.33334"
+       y="16.933334"
+       x="-67.733334" />
+    <rect
+       id="rect932"
+       height="101.6"
+       width="423.33334"
+       y="16.933334"
+       x="-67.733334" />
+    <rect
+       x="-67.733334"
+       y="16.933334"
+       width="423.33334"
+       height="101.6"
+       id="rect934" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     borderlayer="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="757.73168"
+     inkscape:cx="400.71385"
+     inkscape:zoom="0.57487346"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     gridtolerance="10"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       empspacing="8"
+       spacingy="2.1166667"
+       spacingx="2.1166667"
+       id="grid833"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="sssccs"
+       d="M 5.3744052,51.85107 C -9.9066137,-25.569986 108.31773,12.291584 190.0217,18.081346 c 28.68426,2.032644 82.43737,-13.5567193 77.12174,41.457498 -1.81534,18.788007 -30.06053,8.19449 -53.3601,8.19449 C 213.62858,100.89819 40.658187,100.11925 55.033334,69.850001 33.807711,85.872142 8.1474385,65.9006 5.3744052,51.85107 Z"
+       style="fill:#5c3566;stroke:none;stroke-width:0.297899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path890" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="path845"
+       style="fill:#fcaf3e;stroke:none;stroke-width:0.266919px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.166846,54.160931 C 2.4749752,-15.208731 120.70348,14.902774 193.91066,20.090431 c 25.70124,1.821259 72.88039,-9.933091 68.11756,39.359929 -1.62656,16.834151 -29.48501,6.166308 -50.36155,6.166308 -0.13866,29.715882 -167.396874,27.121397 -154.516669,0 -19.018267,14.35592 -38.498503,1.132714 -40.983155,-11.455737 z"
+       sodipodi:nodetypes="sssccs" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.82226"
+       id="path896"
+       sodipodi:cx="43.39167"
+       sodipodi:cy="43.39167"
+       sodipodi:expansion="1"
+       sodipodi:revolution="8.0822802"
+       sodipodi:radius="28.237375"
+       sodipodi:argument="-50.003681"
+       sodipodi:t0="0"
+       d="m 43.39167,43.39167 c 0.507605,0.136014 0.06709,0.751346 -0.226063,0.843673 -0.79443,0.250201 -1.428365,-0.58639 -1.461282,-1.295799 -0.05888,-1.268967 1.18722,-2.141043 2.365535,-2.078892 1.729223,0.09121 2.867797,1.793656 2.696501,3.435271 -0.228311,2.188014 -2.401748,3.600128 -4.505006,3.314111 -2.646737,-0.359924 -4.335258,-3.010547 -3.931721,-5.574743 0.488737,-3.105584 3.619729,-5.07199 6.644478,-4.54933 3.564562,0.615938 5.809729,4.229147 5.16694,7.714214 -0.742126,4.023649 -4.838721,6.548138 -8.78395,5.784549 -4.482819,-0.867637 -7.287015,-5.448407 -6.402159,-9.853685 0.992676,-4.942056 6.058176,-8.026235 10.923422,-7.019768 5.401345,1.117369 8.765711,6.668005 7.637378,11.993157 -1.241804,5.860675 -7.277885,9.505384 -13.062893,8.254987 -6.320038,-1.36604 -10.245212,-7.887801 -8.872597,-14.132628 1.490119,-6.779429 8.497749,-10.985163 15.202364,-9.490207 7.238841,1.614074 11.725215,9.107722 10.107816,16.2721 C 55.152505,54.706952 47.172717,59.474029 39.548597,57.734106 31.390879,55.872408 26.343044,47.406377 28.205562,39.322534 30.190959,30.705356 39.143317,25.37672 47.68687,27.361889 56.763519,29.470928 62.372995,38.909685 60.265124,47.912933 58.032493,57.449063 48.107278,63.339411 38.644345,61.108797 28.648725,58.752617 22.477477,48.34089 24.830871,38.418282 27.310563,27.963165 38.208847,21.510992 48.591122,23.987198 59.505742,26.59037 66.23886,37.97525 63.639815,48.817185 60.913191,60.191314 49.04168,67.205397 37.740092,64.483488 25.906449,61.633437 18.611386,49.275265 21.45618,37.514029 24.429637,25.220868 37.274497,17.644808 49.495375,20.612508 62.248059,23.70935 70.105127,37.040922 67.014506,49.721438 63.794294,62.933648 49.975989,71.071737 36.83584,67.858178 23.1641,64.514614 14.74498,50.209555 18.081489,36.609777 21.548393,22.478504 36.340222,13.778344 50.399627,17.237817 c 14.590808,3.59023 23.572017,18.868845 19.989569,33.387873 -1.161883,4.708908 -3.561357,9.082237 -6.899035,12.600295" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#5c3566;fill-opacity:1;stroke:#ffffff;stroke-width:0.0290992;paint-order:stroke fill markers;stop-color:#000000"
+       id="path892"
+       cx="66.921364"
+       cy="51.296211"
+       rx="4.7415776"
+       ry="4.5717225" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       ry="4.5717225"
+       rx="4.7415776"
+       cy="51.296211"
+       cx="86.818665"
+       id="ellipse894"
+       style="fill:#5c3566;fill-opacity:1;stroke:#ffffff;stroke-width:0.0290992;paint-order:stroke fill markers;stop-color:#000000" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="0"
+       x="29.576912"
+       transform="matrix(1.9296182,0,0,1.9296182,-143.29471,-7.6422844)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect882);fill:#d3d7cf;fill-opacity:1;stroke:#ffffff;"
+       id="text880"
+       xml:space="preserve"><tspan
+         x="88.75963"
+         y="34.76613"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:Funhouse;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d3d7cf;stroke:#ffffff">H</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Funhouse;-inkscape-font-specification:Funhouse;fill:#d3d7cf;stroke:#ffffff">oove</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:Funhouse;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d3d7cf;stroke:#ffffff">rm</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Funhouse;-inkscape-font-specification:Funhouse;fill:#d3d7cf;stroke:#ffffff">a</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:Funhouse;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#d3d7cf;stroke:#ffffff">n</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       id="text831"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect833);fill:#204a87;fill-opacity:1;stroke:none;"
+       transform="matrix(1.9296182,0,0,1.9296182,-143.29471,-7.1131177)"
+       x="29.576912"
+       y="0"><tspan
+         x="88.75963"
+         y="34.76613"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:Funhouse;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#204a87">H</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Funhouse;-inkscape-font-specification:Funhouse;fill:#3465a4">oove</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:Funhouse;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#204a87">rm</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Funhouse;-inkscape-font-specification:Funhouse;fill:#3465a4">a</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:Funhouse;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#204a87">n</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       id="text886"
+       style="font-style:normal;font-weight:normal;font-size:4.0221px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect888);fill:#ffffff;fill-opacity:1;stroke:#ffffff;"
+       transform="matrix(1.5183375,0,0,1.5183375,-86.296579,38.617569)"
+       x="29.576912"
+       y="0"><tspan
+         x="96.116167"
+         y="20.603077"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0221px;font-family:Funhouse;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff">and the cluttered room of various items</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="0"
+       x="29.576912"
+       transform="matrix(1.5183375,0,0,1.5183375,-86.296579,38.921161)"
+       style="font-style:normal;font-weight:normal;font-size:4.0221px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect860);fill:#729fcf;fill-opacity:1;stroke:none;"
+       id="text858"
+       xml:space="preserve"><tspan
+         x="96.116167"
+         y="20.603077"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0221px;font-family:Funhouse;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#729fcf">and the cluttered room of various items</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       id="text916"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect922);fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.19387;stroke-miterlimit:4;stroke-dasharray:none;"
+       transform="matrix(1.9296182,0,0,1.9296182,-143.29471,60.205695)"
+       x="29.576912"
+       y="0"><tspan
+         x="114.31949"
+         y="34.76613"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.19387;stroke-miterlimit:4;stroke-dasharray:none">Game</tspan></tspan></text>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g936">
+      <text
+         xml:space="preserve"
+         id="text920"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect924);fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.19387;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.9296182,0,0,1.9296182,-143.29471,92.050839)"
+         x="29.576912"
+         y="0"><tspan
+           x="115.0526"
+           y="34.76613"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:2.19387;stroke-miterlimit:4;stroke-dasharray:none">Over</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text904"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect906);fill:#ef2929;fill-opacity:1;stroke:none;"
+         transform="matrix(1.9296182,0,0,1.9296182,-143.29471,61.793196)"
+         x="29.576912"
+         y="0"><tspan
+           x="114.31949"
+           y="34.76613"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ef2929">Game</tspan></tspan></text>
+      <text
+         y="0"
+         x="29.576912"
+         transform="matrix(1.9296182,0,0,1.9296182,-143.29471,93.638349)"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect912);fill:#ef2929;fill-opacity:1;stroke:none;"
+         id="text910"
+         xml:space="preserve"><tspan
+           x="115.0526"
+           y="34.76613"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Funhouse;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ef2929">Over</tspan></tspan></text>
+    </g>
+    <text
+       y="0"
+       x="29.576912"
+       transform="matrix(3.1612687,0,0,3.1612687,-319.57261,185.45465)"
+       style="font-style:normal;font-weight:normal;font-size:4.0221px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect932);fill:#ffffff;fill-opacity:1;stroke:#ffffff;"
+       id="text924"
+       xml:space="preserve"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="137.51159"
+         y="20.603077"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0221px;font-family:Funhouse;-inkscape-font-specification:Funhouse;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff">Start</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text930"
+       style="font-style:normal;font-weight:normal;font-size:4.0221px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect934);fill:#729fcf;fill-opacity:1;stroke:none;"
+       transform="matrix(3.1612687,0,0,3.1612687,-319.57261,186.08674)"
+       x="29.576912"
+       y="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="137.51159"
+         y="20.603077"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Funhouse;-inkscape-font-specification:Funhouse">Start</tspan></tspan></text>
+  </g>
+</svg>

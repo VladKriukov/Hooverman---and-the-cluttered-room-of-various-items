@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Art/Blow.material" type="Material" id=1]
+
+[sub_resource type="QuadMesh" id=1]
+material = ExtResource( 1 )
+
+[sub_resource type="Curve" id=2]
+_data = [ Vector2( 0.00630914, 1 ), 0.0, -2.53188, 0, 0, Vector2( 1, 0 ), -0.278576, 0.0, 0, 0 ]
+
+[node name="CPUParticles" type="CPUParticles"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1 )
+amount = 16
+mesh = SubResource( 1 )
+direction = Vector3( 0, 0, 1 )
+spread = 0.0
+gravity = Vector3( 0, 0, 0 )
+initial_velocity = 8.0
+linear_accel = -5.0
+scale_amount = 5.0
+scale_amount_curve = SubResource( 2 )
